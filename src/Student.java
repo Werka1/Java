@@ -22,6 +22,4 @@ public class Student {
         System.out.println("Mój email to: " + email
         );
     }
-
-
 }
