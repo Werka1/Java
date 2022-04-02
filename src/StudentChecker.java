@@ -1,7 +1,9 @@
 // Stwórz 3 obiekty klasy student, Przypisz wartosci do pól, stworz tablice i dodaj studentow do tablicy.
 // Przejdz przez studentow tablicy. wywołaj 4 metody
 
-public class StudentHomework {
+import java.util.Scanner;
+
+public class StudentChecker {
     public static void main(String[] args) {
 
         Student tomek = new Student();
@@ -38,6 +40,9 @@ public class StudentHomework {
         }
 
 
+        String imie = new String("Kasia");
+
+        Scanner scanner = new Scanner(System.in);
 
 
     }
